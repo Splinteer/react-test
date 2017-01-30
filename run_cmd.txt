@@ -1,0 +1,7 @@
+npm i webpack-dev-server --save-dev
+npm i webpack-merge --save-dev
+npm i css-loader style-loader --save-dev
+npm i npm-install-webpack-plugin --save-dev
+npm i babel-loader babel-core --save-dev
+npm i babel-preset-es2016 babel-preset-react --save-dev
+npm i babel-preset-survivejs-kanban --save-dev
